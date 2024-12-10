@@ -10,3 +10,22 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.bigCounter{
+    text-align: center;
+    background: black;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+}
+.bigCounter div{
+    display: inline-block;
+    font-size: 60px;
+    line-height: 60px;
+    background: #101010;
+    color: white;
+    padding: 20px;
+    margin: 2px;
+}
+.fa-clock{
+    color: white;
+}
